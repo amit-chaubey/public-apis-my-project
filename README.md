@@ -1,5 +1,6 @@
 # Try Public APIs for free
-The Public APIs repository is manually curated by community members like you and folks working at [APILayer](https://apilayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo). It includes an extensive list of public APIs from many domains that you can use for your own products. Consider it a treasure trove of APIs well-managed by the community over the years.
+The Public APIs repository is manually curated by community members like you and folks working at [APILayer](https://apilayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo). This repository offers an extensive, curated list of public APIs spanning a variety of domains. Whether you're building applications, exploring new projects, or just looking for inspiration, this collection has something for everyone. It's a true treasure trove of valuable APIs, maintained and improved by a dedicated community of contributors over the years.
+
 
 <br >
 
